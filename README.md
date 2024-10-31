@@ -1,8 +1,7 @@
 # Project-Nitro
-Project Nitro is an innovative initiative focused on enhancing the capabilities of chatbots to deliver extraordinary features that elevate user experience and interaction                                                       # ChatGPT Telegram Bot: **GPT-4. Fast. No daily limits. Special chat modes**
+Project Nitro is an innovative initiative focused on enhancing the capabilities of chatbots to deliver extraordinary features that elevate user experience and interaction                                                     
 
-<div align="center">
-  <img src="[https://files.catbox.moe/8nlzxh.jpg]" align="center" style="width: 100%" />
+  <img src="[https://files.catbox.moe/8nlzxh.jpg]" align="centre
 </div>
 
 ## Features
